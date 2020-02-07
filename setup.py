@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="gasync",
-    version="0.0.2",
+    version="0.0.3",
     install_requires=['hy>=0.15'],
     packages=find_packages(exclude=['tests']),
     package_data={

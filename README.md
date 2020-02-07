@@ -1,6 +1,12 @@
 gasync
 ========
 
+
+[![Build Status](https://img.shields.io/travis/niitsuma/gasync/master.svg?style=flat-square)](https://travis-ci.org/niitsuma/gasync)
+[![Downloads](https://pepy.tech/badge/gasync)](https://pepy.tech/project/gasync)
+[![Version](https://img.shields.io/pypi/v/gasync.svg?style=flat-square)](https://pypi.python.org/pypi/gasync)
+
+
 This library unify async and non-async functions in [Hy][hylang].
 
 [hylang]: http://hylang.org/ "hylang"
@@ -138,10 +144,6 @@ Install
 ```bash
 pip install gasync
 ```
-
-Donation
--------
-BTC:39Qdg9fhhwBb6r2Rh6st97QFegndQ2yV2p
 
 
 License
